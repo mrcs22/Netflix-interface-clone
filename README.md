@@ -1,5 +1,5 @@
 # Netflix-interface-clone
-Segundo projeto guiado referente ao bootcamp Javascipt Game Developer oferecido na Digital Innovation One. O projeto, guiado por <a href="https://www.linkedin.com/in/felipe-aguiar-047/"> Felipe Aguiar</a>, trabalha os temas: estruturação de layout, técnicas de CSS3 com containers e variáveis, posicionamento de elementos com Flexbox e utilização plugins Jquery a favor da apcação.
+Segundo projeto guiado referente ao bootcamp Javascipt Game Developer oferecido na Digital Innovation One. O projeto, guiado por <a href="https://www.linkedin.com/in/felipe-aguiar-047/"> Felipe Aguiar</a>, trabalha os temas: estruturação de layout, técnicas de CSS3 com containers e variáveis, posicionamento de elementos com Flexbox e utilização plugins Jquery a favor da aplicação.
 
 ## O projeto pode ser acessado <a href="https://Netflix-interface-clone.mrcs22.repl.co">aqui</a>
 
